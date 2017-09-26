@@ -1,0 +1,124 @@
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .container{
+    width: auto;
+  }
+  .menu ul li a {
+    font-size: 12px;
+  }
+  .cerca .content {
+    padding-left: 40px;
+  }
+  .reso {
+    top: 20px;
+  }
+  .reso h1{
+    font-size: 36px;
+  }
+  .product.grid ul li{
+    padding: 0;
+
+  }
+  .scale{
+    margin-top: 15px;
+  }
+  .grid .cat{
+    width: 240px;
+  }
+  .owl-nav{
+    display: none;
+  }
+  .col6 img{
+    width: 100%;
+  }
+  .col6 ul{
+    padding-left: 0;
+  }
+  .col6 ul li{
+    margin-top: 5px;
+  }
+  .scale.a1, .scale.a2{
+    padding: 0;
+    margin-top: 10px;
+  }
+}
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+  .container{
+    width: auto;
+  }
+  .search input{
+    width: auto;
+  }
+  .cerca .content {
+    width: auto;
+    padding: 10px 20px;
+  }
+  .cerca .content .left, .cerca .content .center, .cerca .content .right{
+    float: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin-top: 5px;
+  }
+  .cerca .content .form-control.form-control-lg {
+    width: 100%;
+  }
+  .cerca .content .right .button{
+    width: 100%;
+  }
+  .reso{
+    position: absolute;
+    top: 50px;
+    text-align: center;
+    width: 100%;
+    right: 0;
+  }
+  .scale.a1, .scale.a2{
+    padding: 0;
+    margin-top: 10px;
+  }
+  .owl-nav{
+    display: none;
+  }
+  .col3{
+    width: 100%;
+  }
+  .product ul li{
+    padding: 20px 5px;
+  }
+  .top-footer p{
+    text-align: center;
+  }
+  .singup input{
+    width: 100%;
+  }
+  .singup button{
+    left: 92%;
+  }
+  .col1, .col2, .col3,col4, .col5, .col6{
+    float: none;
+  }
+  .col1{
+    width: 100%;
+  }
+  .col2{
+    width: 100%;
+  }
+  .col3{
+    width: 100%;
+  }
+  .col4{
+    width: 100%;
+  }
+  .col5{
+    width: 100%;
+  }
+  .col6{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 479px) {
+
+}
